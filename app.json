@@ -8,7 +8,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Put the session-id here.",
-      "required": true
+      "required": true 
     },
  "NEWS_SEND_JID": {
       "description": "Put the jid channel or group",
